@@ -19,8 +19,10 @@ Powered by **MediaPipe** for edge-device hand tracking and **OpenCV** for render
 ## 🚀 Installation & Setup
 
 1. **Clone the repository:**
-2. **Install dependencies:**  ('requirements.txt')
-3. **Run the engine:**
+2. **Install dependencies:**
+   ```bash
+   ('requirements.txt')
+4. **Run the engine:**
    ```bash
    python main.py
 
